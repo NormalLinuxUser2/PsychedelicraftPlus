@@ -1,6 +1,6 @@
 # Psychedelicraft Plus
 
-[![Current Version](https://img.shields.io/github/v/tag/Sollace/Psychedelicraft)](https://img.shields.io/github/v/tag/Sollace/Psychedelicraft)
+[![Current Version](https://img.shields.io/github/v/tag/NormalLinuxUser2/PsychedelicraftPlus)](https://github.com/NormalLinuxUser2/PsychedelicraftPlus/releases/tag/Early-Beta)
 [![Build Status](https://github.com/Sollace/Psychedelicraft/actions/workflows/gradle-build.yml/badge.svg)](https://github.com/Sollace/Psychedelicraft/actions/workflows/gradle-build.yml)
 ![Downloads](https://img.shields.io/github/downloads/Sollace/Psychedelicraft/total.svg?color=yellowgreen)
 ![License](https://img.shields.io/github/license/Sollace/Psychedelicraft)
@@ -8,7 +8,7 @@
 
 **An enhanced version of Psychedelicraft with new features, improved mechanics, and expanded content.**
 
-[Original Wiki](http://minecraft-psychedelicraft.wikia.com) | [Original Forum](http://www.minecraftforum.net/topic/563257-172-ivorius-mods-drugs-statues-flags-boxes-of-doom-hamsters/)
+[Original Wiki](http://minecraft-psychedelicraft.wikia.com) | [Original Forum](http://www.minecraftforum.net/topic/563257-172-ivorius-mods-drugs-statues-flags-boxes-of-doom-hamsters/) | [Releases](https://github.com/NormalLinuxUser2/PsychedelicraftPlus/releases/tag/Early-Beta)
 
 ---
 
@@ -28,16 +28,23 @@ Psychedelicraft Plus is a comprehensive Minecraft mod that adds realistic drug m
 
 ## Changes from Original Psychedelicraft
 
-### New Features Added
+### New Features Added to Psychedelicraft Plus
 
-#### 1. Nerfed Wax System
-- **Old System**: Direct smelting of dried cannabis buds to extracted resin wax
-- **New System**: 
+#### 1. Wax Production System
+- **Wax Chunks**: New item created from dried cannabis buds
+- **Production Chain**: 
   - 5 Dried Cannabis Buds → 1 Wax Chunk
   - 3 Wax Chunks → 1 Extracted Resin Wax (1 gram container)
-  - More realistic and balanced production chain
+- Realistic and balanced production for vape cartridges
 
-#### 2. Tutorial Command
+#### 2. 510 Cartridge System
+- **Empty 510 Cartridge**: New item for vape carts
+- **Live Resin Cart**: Filled cartridge with extracted resin wax
+- **510 Battery**: Battery item for powering cartridges
+- **Battery with Cart**: Combined battery and cartridge unit
+- Complete vaping system
+
+#### 3. Tutorial Command
 - **Command**: `/tutorial {drug}`
 - **Features**:
   - Step-by-step crafting instructions
@@ -45,22 +52,26 @@ Psychedelicraft Plus is a comprehensive Minecraft mod that adds realistic drug m
   - Skips completed steps automatically
   - Supports: cart, meth, lsd, cocaine, heroin
 
-#### 3. Synthetic Drugs Guide Book
+#### 4. Synthetic Drugs Guide Book
 - New written book exclusively covering complex synthetic drugs
 - Includes detailed instructions for carts, meth, LSD, LSA, heroin
 - Equipment requirements and safety notes
 
-#### 4. Enhanced Creative Tab
+#### 5. JEI Integration
+- Full JEI (Just Enough Items) support
+- Recipe viewing for all new crafting systems
+- Machine interaction displays
+
+#### 6. Enhanced Creative Tab
 - Added missing items (HEROINE_POWDER, WAX_CHUNK)
 - Better organized item categories
-- All mod items now accessible in creative mode
 
 ### Quality of Life Improvements
 
 - **Simplified JAR Naming**: Clean filename format (PsychedelicCraftPlus-1.20.1-Fabric.jar)
-- **Updated Credits**: Proper attribution to original creators and modifier
+- **Updated Credits**: Added "Modded by WillsUsername" attribution
 - **Improved Documentation**: Enhanced README with feature descriptions
-- **Better Language Support**: Updated mod name throughout language files
+- **Mod Rename**: Changed display name to "Psychedelicraft Plus"
 
 ---
 
@@ -295,7 +306,7 @@ This mod is released under the MIT License. You are free to:
 
 **Graphics**: Psychedelicraft Plus may not work on all graphics cards. Report issues with runtime logs and screenshots.
 
-**Vibecoded Source**: This mod contains some AI-generated (vibecoded) source files. If you encounter issues or bugs related to these files, you're welcome to leave the repository instead of complaining. The code is provided as-is with no guarantees of perfection.
+**Vibecoded Source**: This mod contains some AI-generated (vibecoded) source files. If you are planning on complaining about this. You are free to click the back button and explore github. or better yet. Go outside. Grow up.
 
 ---
 
