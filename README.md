@@ -1,16 +1,16 @@
 # Psychedelicraft Plus
 
-[![Current Version](https://img.shields.io/github/v/tag/NormalLinuxUser2/PsychedelicraftPlus)](https://github.com/NormalLinuxUser2/PsychedelicraftPlus/releases/tag/Early-Beta)
+[![Current Version](https://img.shields.io/github/v/tag/NormalLinuxUser2/PsychedelicraftPlus)](https://github.com/NormalLinuxUser2/PsychedelicraftPlus/releases/tag/Beta)
 [![Build Status](https://github.com/Sollace/Psychedelicraft/actions/workflows/gradle-build.yml/badge.svg)](https://github.com/Sollace/Psychedelicraft/actions/workflows/gradle-build.yml)
 ![Downloads](https://img.shields.io/github/downloads/Sollace/Psychedelicraft/total.svg?color=yellowgreen)
 ![License](https://img.shields.io/github/license/Sollace/Psychedelicraft)
 ![](https://img.shields.io/badge/api-fabric-orange.svg)
 
-**Modded Version of Psychedelicraft. Sadly it won't be open source as of 5/29/26 because it's in early beta. But I plan to release ready-to-go source sometime next month. Soon to be published on Modrinth. <3**
+**Modded Version of Psychedelicraft. Sadly it won't be open source as of 5/29/26 because it's in beta. But I plan to release ready-to-go source sometime next month. Soon to be published on Modrinth. <3**
 
 An enhanced version of Psychedelicraft with new features, improved mechanics, and expanded content.
 
-[Original Wiki](http://minecraft-psychedelicraft.wikia.com) | [Original Forum](http://www.minecraftforum.net/topic/563257-172-ivorius-mods-drugs-statues-flags-boxes-of-doom-hamsters/) | [Releases](https://github.com/NormalLinuxUser2/PsychedelicraftPlus/releases/tag/Early-Beta)
+[Original Wiki](http://minecraft-psychedelicraft.wikia.com) | [Original Forum](http://www.minecraftforum.net/topic/563257-172-ivorius-mods-drugs-statues-flags-boxes-of-doom-hamsters/) | [Releases](https://github.com/NormalLinuxUser2/PsychedelicraftPlus/releases/tag/Beta)
 
 ---
 
