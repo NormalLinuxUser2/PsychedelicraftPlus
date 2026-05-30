@@ -6,9 +6,25 @@
 ![License](https://img.shields.io/github/license/Sollace/Psychedelicraft)
 ![](https://img.shields.io/badge/api-fabric-orange.svg)
 
-**An enhanced version of Psychedelicraft with new features, improved mechanics, and expanded content.**
+**Modded Version of Psychedelicraft. Sadly it won't be open source as of 5/29/26 because it's in early beta. But I plan to release ready-to-go source sometime next month. Soon to be published on Modrinth. <3**
+
+An enhanced version of Psychedelicraft with new features, improved mechanics, and expanded content.
 
 [Original Wiki](http://minecraft-psychedelicraft.wikia.com) | [Original Forum](http://www.minecraftforum.net/topic/563257-172-ivorius-mods-drugs-statues-flags-boxes-of-doom-hamsters/) | [Releases](https://github.com/NormalLinuxUser2/PsychedelicraftPlus/releases/tag/Early-Beta)
+
+---
+
+## Safety & Disclaimer
+
+**Age Requirement**: By downloading, you confirm you are of legal age (18+) to view this content.
+
+**Fictional Content**: This mod depicts fictional drug abuse for educational and entertainment purposes only.
+
+**Health Warning**: Do not attempt to replicate any real-world drug manufacturing processes described in this mod.
+
+**Graphics**: Psychedelicraft Plus may not work on all graphics cards. Report issues with runtime logs and screenshots.
+
+**Vibecoded Source**: This mod contains some AI-generated (vibecoded) source files. If you encounter issues or bugs related to these files, you're welcome to leave the repository instead of complaining. The code is provided as-is with no guarantees of perfection.
 
 ---
 
@@ -65,6 +81,26 @@ Psychedelicraft Plus is a comprehensive Minecraft mod that adds realistic drug m
 #### 6. Enhanced Creative Tab
 - Added missing items (HEROINE_POWDER, WAX_CHUNK)
 - Better organized item categories
+
+#### 7. Drug Dealing System
+- **Shift Right Click on Villagers**: Sell narcotics to villagers for emeralds
+- **Supported Drugs**: Meth, LSD, Blunts, Joints, Peyote Joints, Shrooms, Heroin, Crack, Cocaine
+- **Balanced Pricing**: Each drug has different emerald values based on potency
+- **Villager Addiction**: Villagers can become addicted from repeated sales
+
+#### 8. Player Addiction System
+- **Addiction Meters**: Each drug has different addiction chances
+- **Weed**: Very low addiction (3%), mild withdrawal
+- **Hard Drugs**: High addiction rates (40-60%), severe withdrawal
+- **Withdrawal Effects**: Nausea, hunger, weakness, cravings
+- **Craving Messages**: "I want to get high so bad...", "One time can't hurt right?..."
+- **Drug in Hotbar**: Addicted players may find drugs moved to hotbar during cravings
+
+#### 9. Weed Overdose Mechanics
+- **Pass Out**: 2% chance to overdose on weed
+- **Effects**: Vomit and teleport to bed
+- **Time Skip**: Skips entire day (24000 ticks)
+- **Warning Message**: "You passed out from smoking too much..."
 
 ### Quality of Life Improvements
 
@@ -293,20 +329,6 @@ This mod is released under the MIT License. You are free to:
 - Distribute modifications
 
 **Requirement**: Credit the original creators (Ivorius, TripleHeadedSheep, Sollace) and the modifier (WillsUsername).
-
----
-
-## Safety & Disclaimer
-
-**Age Requirement**: By downloading, you confirm you are of legal age (18+) to view this content.
-
-**Fictional Content**: This mod depicts fictional drug abuse for educational and entertainment purposes only.
-
-**Health Warning**: Do not attempt to replicate any real-world drug manufacturing processes described in this mod.
-
-**Graphics**: Psychedelicraft Plus may not work on all graphics cards. Report issues with runtime logs and screenshots.
-
-**Vibecoded Source**: This mod contains some AI-generated (vibecoded) source files. If you are planning on complaining about this. You are free to click the back button and explore github. or better yet. Go outside. Grow up.
 
 ---
 
