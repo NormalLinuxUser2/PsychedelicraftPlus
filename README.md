@@ -330,7 +330,9 @@ This mod is released under the MIT License. You are free to:
 - Modify the code
 - Distribute modifications
 
-**Requirement**: Credit the original creators (Ivorius, TripleHeadedSheep, Sollace) and the modifier (WillsUsername).
+**Requirement**: Credit the original creators (Ivorius, TripleHeadedSheep, Sollace) and the modifier (Aka me):
+(NormalLinuxUser2/WillsUsername).
+Both usernames must be mentioned.
 
 ---
 
@@ -366,8 +368,7 @@ This mod is released under the MIT License. You are free to:
 
 - **Issues**: Report bugs on GitHub issues
 - **Wiki**: Visit original wiki for detailed guides
-- **Discord**: Join community for support and discussion
 
 ---
 
-**Remember**: This is a fictional mod for educational and entertainment purposes. Stay safe and make responsible choices in real life.
+**Remember**: This is a mod for educational and entertainment purposes. Stay safe and make responsible choices in real life.
