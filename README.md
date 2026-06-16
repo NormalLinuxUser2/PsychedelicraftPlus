@@ -1,4 +1,5 @@
 # Psychedelicraft Plus
+Note: Mod was not created with any 3rd party tool. (MCreator and other similar mod creators)
 If Solace wants me to take this down I will.
 [![Current Version](https://img.shields.io/badge/version-Beta-blue)](https://github.com/NormalLinuxUser2/PsychedelicraftPlus/releases/tag/Beta)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/NormalLinuxUser2/PsychedelicraftPlus/blob/main/LICENSE)
