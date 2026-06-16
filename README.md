@@ -193,7 +193,7 @@ Grow various plants each with unique properties and uses:
 
 ---
 
-## Planned Features
+## Planned Features for 1.0
 
 ### New Drugs
 
