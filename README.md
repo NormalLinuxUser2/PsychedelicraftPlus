@@ -26,7 +26,7 @@ An enhanced version of Psychedelicraft with new features, improved mechanics, an
 
 **Graphics**: Psychedelicraft Plus may not work on all graphics cards. Report issues with runtime logs and screenshots.
 
-**Vibecoded Source**: This mod contains some AI-generated (vibecoded) source files. If you encounter issues or bugs related to these files, you're welcome to leave the repository instead of complaining. The code is provided as-is with no guarantees of perfection.
+**Vibecoded Source**: This mod contains some AI-generated (vibecoded) source files.If you dont like it, you're welcome to leave the repository instead of complaining. If you encountered a bug please report it on Github Issues The code is provided as-is with no guarantees of perfection.
 
 ---
 
