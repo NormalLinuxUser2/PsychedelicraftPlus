@@ -1,9 +1,10 @@
 # Psychedelicraft Plus
 If Solace wants me to take this down I will.
 [![Current Version](https://img.shields.io/badge/version-Beta-blue)](https://github.com/NormalLinuxUser2/PsychedelicraftPlus/releases/tag/Beta)
+[![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/NormalLinuxUser2/PsychedelicraftPlus/blob/main/LICENSE)
 ![Downloads](https://img.shields.io/github/downloads/NormalLinuxUser2/PsychedelicraftPlus/total.svg?color=yellowgreen)
-![License](https://img.shields.io/github/license/NormalLinuxUser2/PsychedelicraftPlus)
 ![](https://img.shields.io/badge/api-fabric-orange.svg)
+
 
 
 
