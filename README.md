@@ -1,5 +1,5 @@
 # Psychedelicraft Plus
-
+If Solace wants me to take this down I will.
 [![Current Version](https://img.shields.io/github/v/tag/NormalLinuxUser2/PsychedelicraftPlus)](https://github.com/NormalLinuxUser2/PsychedelicraftPlus/releases/tag/Beta)
 [![Build Status](https://github.com/Sollace/Psychedelicraft/actions/workflows/gradle-build.yml/badge.svg)](https://github.com/Sollace/Psychedelicraft/actions/workflows/gradle-build.yml)
 ![Downloads](https://img.shields.io/github/downloads/Sollace/Psychedelicraft/total.svg?color=yellowgreen)
