@@ -1,10 +1,10 @@
 # Psychedelicraft Plus
 If Solace wants me to take this down I will.
-[![Current Version](https://img.shields.io/github/v/tag/NormalLinuxUser2/PsychedelicraftPlus)](https://github.com/NormalLinuxUser2/PsychedelicraftPlus/releases/tag/Beta)
-[![Build Status](https://github.com/NormalLinuxUser2/PsychedelicraftPlus/actions/workflows/gradle-build.yml/badge.svg)](https://github.com/NormalLinuxUser2/PsychedelicraftPlus/actions/workflows/gradle-build.yml)
+[![Current Version](https://img.shields.io/badge/version-Beta-blue)](https://github.com/NormalLinuxUser2/PsychedelicraftPlus/releases/tag/Beta)
 ![Downloads](https://img.shields.io/github/downloads/NormalLinuxUser2/PsychedelicraftPlus/total.svg?color=yellowgreen)
 ![License](https://img.shields.io/github/license/NormalLinuxUser2/PsychedelicraftPlus)
 ![](https://img.shields.io/badge/api-fabric-orange.svg)
+
 
 
 **Modded Version of Psychedelicraft. Sadly it won't be open source as of 5/29/26 because it's in beta. But I plan to release ready-to-go source sometime next month. Soon to be published on Modrinth. <3**
